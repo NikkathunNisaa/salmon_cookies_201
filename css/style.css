@@ -96,7 +96,18 @@ main{
 }
 
 footer{
-    background: #444;
-    height: 150px;
-    margin-top: 30px;
+        background: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        left: 0;
+        text-shadow: #cce5ff;
+        bottom: 0;
+        width: 100%;
+        color: black;
+        text-align: center;
+        border-top: 20px;
+        padding: 5px;
+        height: 50px;
+        margin-top: 30px;
+        opacity: 0.5; 
+        position: fixed ;
 }
